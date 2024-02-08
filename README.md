@@ -10,7 +10,7 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>libraries: numpy, matplotlib.pyplot</b>
+- libraries: numpy, matplotlib.pyplot
 
 <h2>Environments Used</h2>
 
