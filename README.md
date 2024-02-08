@@ -10,11 +10,11 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- libraries: numpy, matplotlib.pyplot
 
-<h2>Environments Used</h2>
+<h2>Libraries Used</h2>
 
-- <b>Windows 10 Pro</b> (22H2)
+- <b>numpy</b>
+- <b>matplotlib.pyploy</b>
 
 <h2>Program walk-through:</h2>
 
