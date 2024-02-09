@@ -42,7 +42,7 @@ Applying boundary conditions: <br/>
 <img src="https://i.imgur.com/WREGb5y.png" width="80%" "/>
 <br />
  boundary conditions for the scheme: <br/>
- <img src="https://i.imgur.com/FJPPM3E.png" width="80%" />
+ <img src="https://i.imgur.com/FJPPM3E.png"  />
 <br />
 Confirm your selection:  <br/>
 <img src=""/>
