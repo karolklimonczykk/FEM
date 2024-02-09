@@ -33,8 +33,8 @@ Creating the stiffness matrix of a beam element <br/>
 <img src="https://i.imgur.com/UwhIF1S.png" alt ="ke"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src=""/>
+Creating a global stiffness matrix:  <br/>
+<img src="https://i.imgur.com/hCmyxCE.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
