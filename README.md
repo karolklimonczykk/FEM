@@ -15,7 +15,7 @@
 <h2>Libraries Used</h2>
 
 - <b>numpy</b>
-- <b>matplotlib.pyploy</b>
+- <b>matplotlib</b>
 
 <h2>Program walk-through:</h2>
 
