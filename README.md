@@ -3,13 +3,12 @@
 
 
 <h2>Description</h2>
-The project consists of solving the given task using a scheme employing the Finite Element Method for provided data. The solution to the task is presented in the form of a displacement plot at the finite element mesh nodes. The obtained results are compared with the analytical solution at the specified point. </br>
+The project consists of solving the given task using a scheme employing the Finite Element Method for provided data. The solution to the task is presented in the form of a displacement plot at the finite element mesh nodes. The obtained results are compared with the analytical solution at the specified point.
+<br />
 <p align = "center>
 scheme:
 <img src="https://imgur.com/G4D6H1C",alt="scheme"/>
 </p>
-<br />
-
 
 <h2>Languages and Utilities Used</h2>
 
