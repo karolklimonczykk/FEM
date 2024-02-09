@@ -39,17 +39,18 @@ Creating a global stiffness matrix:  <br/>
 <br />
 <br />
 Applying boundary conditions: <br/>
-<img src="https://i.imgur.com/WREGb5y.png" width="80%" "/>
+<img src="https://i.imgur.com/WREGb5y.png" width="80%" alt="boundaryConditions"/>
 <br />
  boundary conditions for the scheme: <br/>
- <img src="https://i.imgur.com/FJPPM3E.png"  />
+ <img src="https://i.imgur.com/FJPPM3E.png"  alt="conditions"/>
 <br />
+ <br />
 Solving for displacement vector:  <br/>
-<img src="https://i.imgur.com/8lU3NXp.png" width="80%"/>
+<img src="https://i.imgur.com/8lU3NXp.png" width="80%" alt = "displacement vector"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src=""/>
+result:  <br/>
+<img src="https://i.imgur.com/t5id8vp.png" width="80%" alt="plot"/>
 <br />
 <br />
 Sanitization complete:  <br/>
