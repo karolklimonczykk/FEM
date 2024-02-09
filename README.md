@@ -52,15 +52,7 @@ Solving for displacement vector:  <br/>
 results:  <br/>
 <img src="https://i.imgur.com/t5id8vp.png" width="80%" alt="plot"/>
  <img src="https://i.imgur.com/wVPcKBl.png" width="80%" alt="error"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src=""/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src=""/>
-</p>
+
 
 <!--
  ```diff
