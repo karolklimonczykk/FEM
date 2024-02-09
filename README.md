@@ -30,7 +30,7 @@ The project consists of solving the given task using a scheme employing the Fini
 
 <p align="center">
 Creating the stiffness matrix of a beam element <br/>
-<img src="blob:https://imgur.com/d789a67a-529c-4e35-94b3-d4b667bef6fb" alt ="ke"/>
+<img src="https://i.imgur.com/UwhIF1S.png" alt ="ke"/>
 <br />
 <br />
 Select the disk:  <br/>
