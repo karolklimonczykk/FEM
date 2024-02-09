@@ -44,8 +44,8 @@ Applying boundary conditions: <br/>
  boundary conditions for the scheme: <br/>
  <img src="https://i.imgur.com/FJPPM3E.png"  />
 <br />
-Confirm your selection:  <br/>
-<img src=""/>
+Solving for displacement vector:  <br/>
+<img src="https://i.imgur.com/8lU3NXp.png" width="80%"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
