@@ -30,19 +30,19 @@ The project consists of solving the given task using a scheme employing the Fini
 
 <p align="center">
 Creating the stiffness matrix of a beam element <br/>
-<img src="https://i.imgur.com/UwhIF1S.png" height="80%" width="80%" alt ="ke"/>
+<img src="https://i.imgur.com/UwhIF1S.png" width="80%" alt ="ke"/>
 <br />
 <br />
 Creating a global stiffness matrix:  <br/>
 <img src="https://i.imgur.com/hCmyxCE.png" alt="Global marix "/>
- <img src="https://i.imgur.com/0L7TFOK.png" alt="KK" width="80%" height="80%">
+ <img src="https://i.imgur.com/0L7TFOK.png" alt="KK" width="80%"">
 <br />
 <br />
 Applying boundary conditions: <br/>
-<img src="https://i.imgur.com/WREGb5y.png" width="80%" height="80%"/>
+<img src="https://i.imgur.com/WREGb5y.png" width="80%" "/>
 <br />
  boundary conditions for the scheme: <br/>
- <img src="https://i.imgur.com/FJPPM3E.png" width="80%" height="80%"/>
+ <img src="https://i.imgur.com/FJPPM3E.png" width="80%" />
 <br />
 Confirm your selection:  <br/>
 <img src=""/>
