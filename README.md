@@ -49,8 +49,9 @@ Solving for displacement vector:  <br/>
 <img src="https://i.imgur.com/8lU3NXp.png" width="80%" alt = "displacement vector"/>
 <br />
 <br />
-result:  <br/>
+results:  <br/>
 <img src="https://i.imgur.com/t5id8vp.png" width="80%" alt="plot"/>
+ <img src="https://i.imgur.com/wVPcKBl.png" width="80%" alt="error"/>
 <br />
 <br />
 Sanitization complete:  <br/>
