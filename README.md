@@ -38,9 +38,11 @@ Creating a global stiffness matrix:  <br/>
  <img src="https://i.imgur.com/0L7TFOK.png" alt="KK" width="80%">
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src=""/>
+Applying boundary conditions: <br/>
+<img src="https://i.imgur.com/WREGb5y.png"/>
 <br />
+ boundary conditions for the task: <br/>
+ <img src="https://i.imgur.com/FJPPM3E.png"/>
 <br />
 Confirm your selection:  <br/>
 <img src=""/>
