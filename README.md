@@ -7,7 +7,7 @@ The project consists of solving the given task using a scheme employing the Fini
 <br />
 <p align = "center">
 scheme: <br />
-<img src="https://imgur.com/a/HSq6IP0.png" height="80%" width="80%" alt="scheme"/>
+<img src="https://i.imgur.com/G4D6H1C.png" height="80%" width="80%" alt="scheme"/>
 </p>
 
 <h2>Languages and Utilities Used</h2>
