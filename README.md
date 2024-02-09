@@ -34,7 +34,8 @@ Creating the stiffness matrix of a beam element <br/>
 <br />
 <br />
 Creating a global stiffness matrix:  <br/>
-<img src="https://i.imgur.com/hCmyxCE.png"/>
+<img src="https://i.imgur.com/hCmyxCE.png" alt="Global marix"/>
+ <img src="https://i.imgur.com/0L7TFOK.png" alt="KK">
 <br />
 <br />
 Enter the number of passes: <br/>
