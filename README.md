@@ -9,9 +9,9 @@ The project consists of solving the given task using a scheme employing the Fini
  <br />
 <img src="https://i.imgur.com/G4D6H1C.png" height="80%" width="80%" alt="scheme"/>
  <br /> <br />
- Assumed values ​​for forces, Young's modulus, moment of inertia, beam cross-section.
+ Beam force values ​​and other data enabling solving the task using the FEM method.
  <img src="https://i.imgur.com/AKJTs98.png" height="80%" width="80%"  alt="values"/> <br>
- <img src="https://i.imgur.com/HlPeB4i.png" alt="momOfInteria" height="80%" width="80%" />
+ <img src="https://i.imgur.com/HlPeB4i.png" alt="momOfInteria" />
 </p>
 
 <h2>Languages and Utilities Used</h2>
