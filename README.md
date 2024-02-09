@@ -8,10 +8,10 @@ The project consists of solving the given task using a scheme employing the Fini
 <p align = "center">
  <br />
 <img src="https://i.imgur.com/G4D6H1C.png" height="80%" width="80%" alt="scheme"/>
- <br />
+ <br /> <br />
  Assumed values ​​for forces, Young's modulus, moment of inertia, beam cross-section.
- <img src="https://i.imgur.com/AKJTs98.png" height="80%" width="80%"  alt="values"/>
- <img src="https://i.imgur.com/HlPeB4i.png" alt="momOfInteria"/>
+ <img src="https://i.imgur.com/AKJTs98.png" height="80%" width="80%"  alt="values"/> <br>
+ <img src="https://i.imgur.com/HlPeB4i.png" alt="momOfInteria" height="80%" width="80%" />
 </p>
 
 <h2>Languages and Utilities Used</h2>
