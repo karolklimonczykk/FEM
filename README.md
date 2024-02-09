@@ -6,7 +6,7 @@
 The project consists of solving the given task using a scheme employing the Finite Element Method for provided data. The solution to the task is presented in the form of a displacement plot at the finite element mesh nodes. The obtained results are compared with the analytical solution at the specified point.
 <br />
 <p align = "center">
-scheme: <br />
+ <br />
 <img src="https://i.imgur.com/G4D6H1C.png" height="80%" width="80%" alt="scheme"/>
 </p>
 
