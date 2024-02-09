@@ -8,10 +8,9 @@
 
 
 <h2>Languages and Utilities Used</h2>
-
 - <b>Python</b>
+<h2>Environments Used/h2>
 - PyCharm 2023.3.3
-
 <h2>Libraries Used</h2>
 
 - <b>numpy</b>
