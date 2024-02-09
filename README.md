@@ -7,11 +7,10 @@ The project consists of solving the given task using a scheme employing the Fini
 <br />
 <p align = "center">
  <br />
-<img src="https://i.imgur.com/G4D6H1C.png" height="80%" width="80%" alt="scheme"/>
+<img src="https://i.imgur.com/zd2bmRi.png" height="80%" width="80%" alt="scheme"/>
  <br /> <br />
  Beam force values ​​and other data enabling solving the task using the FEM method.
  <img src="https://i.imgur.com/AKJTs98.png" height="80%" width="80%"  alt="values"/> <br>
- <img src="https://i.imgur.com/HlPeB4i.png" alt="momOfInteria" />
 </p>
 
 <h2>Languages and Utilities Used</h2>
