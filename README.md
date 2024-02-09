@@ -30,11 +30,11 @@ The project consists of solving the given task using a scheme employing the Fini
 
 <p align="center">
 Creating the stiffness matrix of a beam element <br/>
-<img src="https://i.imgur.com/UwhIF1S.png" width="80%" alt ="ke"/>
+<img src="https://i.imgur.com/UwhIF1S.png" width="80%" alt ="ke"  width="80%"/>
 <br />
 <br />
 Creating a global stiffness matrix:  <br/>
-<img src="https://i.imgur.com/hCmyxCE.png" alt="Global marix "/>
+<img src="https://i.imgur.com/hCmyxCE.png" alt="Global marix " width="80%"/>
  <img src="https://i.imgur.com/0L7TFOK.png" alt="KK" width="80%"/>
 <br />
 <br />
