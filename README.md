@@ -41,7 +41,7 @@ Creating a global stiffness matrix:  <br/>
 Applying boundary conditions: <br/>
 <img src="https://i.imgur.com/WREGb5y.png" width="80%" alt="boundaryConditions"/>
 <br />
- boundary conditions for the scheme: <br/>
+ boundary conditions for given scheme: <br/>
  <img src="https://i.imgur.com/FJPPM3E.png"  alt="conditions"/>
 <br />
  <br />
