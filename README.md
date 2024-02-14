@@ -1,4 +1,4 @@
-<h1>Python - Finite Element Method (FEM)</h1>
+<h1>Finite Element Method (FEM)</h1>
 
 
 
